@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Slip">
+  <rect width="32" height="32" rx="7" fill="#efe8dc"/>
+  <rect x="9" y="11" width="14" height="16" rx="1.2" fill="#d9cfc0"/>
+  <rect x="7.5" y="9" width="14" height="16" rx="1.2" fill="#f7f3ec" stroke="#1c1915" stroke-width="1.6"/>
+  <path d="M10.2 10.2v-2.1c0-1.5 2.4-2.6 4.8-2.6s4.8 1.1 4.8 2.6v2.1" fill="none" stroke="#6d6458" stroke-width="2" stroke-linecap="round"/>
+  <rect x="9.4" y="8.6" width="10.2" height="2.6" rx="0.8" fill="#8a8175"/>
+  <circle cx="14.5" cy="18.2" r="2.15" fill="#c2412d"/>
+</svg>
