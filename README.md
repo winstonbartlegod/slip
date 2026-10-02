@@ -1,6 +1,6 @@
 # Slip
 
-A shared clipboard you open in a browser. Paste text or a picture on one laptop, then copy it on the other. No install, no account, and it works between Mac and Windows.
+A cross-platform shared clipboard you open in a browser. Paste text or a picture on one laptop, then copy it on the other. No install, no account, and it works between Mac and Windows.
 
 ## Why it’s useful
 
